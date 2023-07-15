@@ -50,7 +50,7 @@ https://opensource.org/license/mit/
 OpenAI<br>
 License Badge created by shields.io<br>
 License links provide by opensource.org<br>
-Starter code by ![UCB_coding_bootcamp](https://github.com/coding-boot-camp/cautious-meme.git) <br>
+Starter code by [UCB coding bootcamp](https://github.com/coding-boot-camp/cautious-meme.git) <br>
 
 ## Tests
 
