@@ -31,7 +31,7 @@ To set up the development environment and run J.A.T.E locally:
 
 To use J.A.T.E and create/manage your notes:
 
-1. Visit ![this link](google.com) to access the J.A.T.E application.
+1. Visit ![here](google.com) to access the J.A.T.E application.
 2. Optionally, you can choose to download the application for easier access on your device.
 
 ![J.A.T.E AppView](./assets/images/J.A.T.E_AppView.png)
@@ -50,7 +50,7 @@ https://opensource.org/license/mit/
 OpenAI<br>
 License Badge created by shields.io<br>
 License links provide by opensource.org<br>
-Starter code by ![UCB coding bootcamp](https://github.com/coding-boot-camp/cautious-meme.git) <br>
+Starter code by ![UCB_coding_bootcamp](https://github.com/coding-boot-camp/cautious-meme.git) <br>
 
 ## Tests
 
