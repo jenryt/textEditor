@@ -19,6 +19,8 @@ const pageCache = new CacheFirst({
   ],
 });
 
+offlineFallback({ pageFallback: "/index.html" });
+
 warmStrategyCache({
   urls: ["/index.html", "/"],
   strategy: pageCache,
